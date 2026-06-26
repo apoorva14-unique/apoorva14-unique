@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Final-year B.Tech CSE (AI & ML) student specializing in Data Analytics and Business Intelligence.  <br>📊 Working with SQL, Python, Excel, and Power BI to analyze datasets and uncover business insights.  <br>📈 Developed end-to-end analytics projects using retail, stock market, and consumer analytics datasets.  <br>🔍 Hands-on experience in data cleaning, exploratory data analysis, KPI tracking, and interactive dashboard creation.  <br>🚀 Building industry-focused projects while preparing for Data Analyst internship and entry-level opportunities.  
+🎓 Final-year B.Tech CSE (AI & ML) student specializing in Data Analytics and Business Intelligence.  <br>📊 Skilled in SQL, Python, Excel, and Power BI to analyze datasets and uncover business insights.  <br>📈 Built end-to-end analytics projects using retail, stock market, and consumer analytics datasets.  <br>🔍 Hands-on experience in data cleaning, exploratory data analysis, KPI tracking, and interactive dashboard development.  <br>🚀 Building industry-focused projects while preparing for Data Analyst internship and entry-level opportunities.  
 
 
 ## 🌐 Socials:
